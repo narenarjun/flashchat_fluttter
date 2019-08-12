@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "584810137935",
+    "firebase_url": "https://my-react-burger-builder-88245.firebaseio.com",
+    "project_id": "my-react-burger-builder-88245",
+    "storage_bucket": "my-react-burger-builder-88245.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584810137935:android:9888bd483d23b8a4",
+        "android_client_info": {
+          "package_name": "com.narendrandev.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584810137935-vdr3ddps1pubcujq6scsr7pt4un4m53p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEQAsli8RieHYIbrpZx1u0annz2mIhzNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584810137935-vdr3ddps1pubcujq6scsr7pt4un4m53p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
